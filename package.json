@@ -1,6 +1,6 @@
 {
   "name": "chatroom-web-application",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "main": "src/server/index.mjs",
   "description": "A web-based chatroom",
   "scripts": {
