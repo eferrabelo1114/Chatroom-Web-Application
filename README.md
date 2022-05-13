@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 20px; font-weight: bold">
+<p align="center" style="font-size: 100px; font-weight: bold">
     Simple Web-Based Chatroom Application
 </p>
 
