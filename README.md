@@ -1,5 +1,5 @@
 <div align="center">
-    <p style="font-size: 400px; font-weight: bold">Simple Web-Based Chatroom Application</p>
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg">
 </div>
 
 # About
