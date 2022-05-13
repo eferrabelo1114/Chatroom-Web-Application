@@ -1,5 +1,5 @@
 <div align="center">
-    Simple Web-Based Chatroom Application
+    <p style="font-size: 400px; font-weight: bold">Simple Web-Based Chatroom Application</p>
 </div>
 
 # About
