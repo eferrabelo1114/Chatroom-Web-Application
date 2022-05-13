@@ -1,7 +1,7 @@
 ## About
 <img src="https://img.shields.io/badge/License-MIT-blue.svg">
 
-Chatroom application for the web. By chatroom, I really mean one chatroom. It does not have a database to store login information or chatroom message history. I'd like to come back to this someday to incorporate more features such as the ones listed. The server runs on Node and Express. Along with the basic rest apis, it keeps track of cookies so you can leave and come back to the website and automatically join the chatroom where you last left off. A websocket connection is also made to communicate the chatroom messages to the client.
+Very simple chatroom application for the web. By chatroom, I really mean one chatroom. It does not have a database to store login information or chatroom message history. I'd like to come back to this someday to incorporate more features such as the ones listed. The server runs on Node and Express. Along with the basic rest apis, it keeps track of cookies so you can leave and come back to the website and automatically join the chatroom where you last left off. A websocket connection is also made to communicate the chatroom messages to the client.
 
 
 This was my first attempt at a "proper" react and nodejs project. I had 0 knowledge of either before I started this project.
